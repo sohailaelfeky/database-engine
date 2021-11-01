@@ -1,0 +1,5 @@
+test,location,java.awt.Polygon,false,true
+test,name,java.lang.String,true,false
+test,manager,java.lang.Boolean,false,false
+test,salary,java.lang.Double,false,true
+test,id,java.lang.Integer,false,true
